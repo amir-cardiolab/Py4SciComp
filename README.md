@@ -86,6 +86,8 @@ Coming soon!!!!!
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Theory lectures %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
+**Lectures (theory)**: Short theoretical lectures that support Py4SciComp tutorials.  \
+
 **FEM-based CFD**: \
 Lectures for computational fluid dynamics (CFD) with finite-element method (FEM). 
 
