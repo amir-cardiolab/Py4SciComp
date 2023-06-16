@@ -2,15 +2,15 @@
 Python for Scientific Computing (FEniCS, PyTorch, VTK) 
 
 
-Py4SciComp is an educational effort that attempts to make three useful open-source Python-based resources in scinetific computing accessable with tutorials, sample codes/data, and short theoretical lectures:
+Py4SciComp is an educational effort that attempts to make three useful open-source Python-based resources in scientific computing accessible with tutorials, sample codes/data, and short theoretical lectures:
 
-**FEniCS**: FEniCS is an open-source finite-element method (FEM) solver for solving PDEs. Users are expected to be familiar with weak form formulation of PDEs and FEniCS provides a flexible environment for coding the weak forms and the FEM problem. Behind the curtains FEniCS converts the Python code to a HPC-supported C++ code and runs it. \
+**FEniCS**: FEniCS is an open-source finite-element method (FEM) solver for solving PDEs. Users are expected to be familiar with weak form formulation of PDEs and FEniCS provides a flexible environment for coding the weak forms and the FEM problem. Behind the curtains, FEniCS converts the Python code to an HPC-supported C++ code and runs it. \
 **PyTorch**: PyTorch is a very popular framework for implementing deep learning, automatic differentiation, and optimization based codes. \
-**VTK**: Visualization Toolkit (VTK) libraries provide various useful tools for efficient pre- and post- processing of mesh-based and discrete data. Popular visualization software like ParaView are built based on VTK.\
-**A Unified Python cyberinfrastructure**: It is the hope that these resources motivate development of unified Python cuberinfrastructure that integrate these resources for scientific computing. 
+**VTK**: Visualization Toolkit (VTK) libraries provide various useful tools for efficient pre- and post- processing of mesh-based and discrete data. Popular visualization software like ParaView is built based on VTK.\
+**A Unified Python cyberinfrastructure**: It is the hope that these resources motivate development of unified Python cyberinfrastructure that integrates these resources for scientific computing. 
 
 
-In this Github directory, we provide a series of tutorials. Each tutorial is accompanied by a short Youtube video, sample codes, and data.  Available resources (**to be expanded in the future**): 
+In this GitHub directory, we provide a series of tutorials. Each tutorial is accompanied by a short Youtube video, sample codes, and data.  Available resources (**to be expanded in the future**): 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% FEniCS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
@@ -55,7 +55,7 @@ Youtube tutorial:
 **PyTorch**: \
 Youtube playlist: 
 
-1- Data-driven neural network (2D field to 2D field mappping) \
+1- Data-driven neural network (2D field to 2D field mapping) \
 Youtube tutorial: 
 
 2- Physics-informed neural network (PINN) for forward problems \
@@ -91,7 +91,7 @@ Coming soon!!!!!
 **FEM-based CFD**: \
 Lectures for computational fluid dynamics (CFD) with finite-element method (FEM). 
 
-To be added in the futre. 
+To be added in the future. 
 
 
 
@@ -99,7 +99,7 @@ To be added in the futre.
 **Scientific machine learning**: \
 Lectures for scientific machine learning (machine learning in physics-based modeling).
 
-To be added in the futre. 
+To be added in the future. 
 
 
 
