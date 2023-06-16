@@ -33,7 +33,9 @@ Youtube tutorial:
 Youtube tutorial: 
 
 6-Importing 3D mesh into FeniCS \
-Youtube tutorial: 
+Youtube tutorial (part I): 
+
+Youtube tutorial (part II): 
 
 7- 3D mass transport in complex geometry (advection-diffusion) \
 Youtube tutorial: 
@@ -86,7 +88,7 @@ Coming soon!!!!!
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Theory lectures %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-**Lectures (theory)**: Short theoretical lectures that support Py4SciComp tutorials.  \
+**Lectures (theory)**: Short theoretical lectures that support Py4SciComp tutorials.  
 
 **FEM-based CFD**: \
 Lectures for computational fluid dynamics (CFD) with finite-element method (FEM). 
