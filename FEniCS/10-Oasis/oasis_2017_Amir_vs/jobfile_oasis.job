@@ -1,0 +1,19 @@
+#!/bin/bash
+#SBATCH --job-name=IA_O2
+
+#SBATCH --time=264:00:00                            # 20 min, shorter time, quicker start, max run time
+#SBATCH --workdir=/scratch/aa3878/IA_oasis/             # your work directory
+#SBATCH --mem=50000                              # MB of memory
+#SBATCH --nodes=2
+#SBATCH --ntasks=48
+
+
+module load anaconda
+
+### Load FEniCS environment variables
+module purge
+
+
+source /packages/python/anaconda/latest/bin/activate fenics_2017p2
+
+time mpirun python /home/aa3878/softwares/Oasis_2017/NSfracStep.py problem=IA05_O2quadrule > myoutput.log
