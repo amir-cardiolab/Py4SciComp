@@ -84,7 +84,7 @@ Coming soon!!!!!
 
 
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Theory lectures %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Theory lectures %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 **FEM-based CFD**: \
 Lectures for computational fluid dynamics (CFD) with finite-element method (FEM). 
