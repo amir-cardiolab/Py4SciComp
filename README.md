@@ -23,58 +23,74 @@ Youtube tutorial: \
 https://www.youtube.com/watch?v=P642Oq-TohY&list=PLw74xLHy0_j8umWkSsT-9U0CmoRBpz4vD&index=1&t=163s&ab_channel=AmirhosseinArzani
 
 2-Automated parametric solution \
-Youtube tutorial: 
+Youtube tutorial: \
+https://www.youtube.com/watch?v=I9UJNsStOo4&list=PLw74xLHy0_j8umWkSsT-9U0CmoRBpz4vD&index=2&t=437s&ab_channel=AmirhosseinArzani
 
 3-Steady Navier-Stokes \
-Youtube tutorial: 
+Youtube tutorial: \
+https://www.youtube.com/watch?v=4sITKq0e6Mo&list=PLw74xLHy0_j8umWkSsT-9U0CmoRBpz4vD&index=3&t=1s&ab_channel=AmirhosseinArzani
 
 4-Unsteady Navier-Stokes \
-Youtube tutorial: 
+Youtube tutorial: \
+https://www.youtube.com/watch?v=pmjVsZU3jOE&list=PLw74xLHy0_j8umWkSsT-9U0CmoRBpz4vD&index=4&ab_channel=AmirhosseinArzani
 
 5-2D mass transport (advection-diffusion) \
-Youtube tutorial: 
+Youtube tutorial: \
+https://www.youtube.com/watch?v=Qpk_4oK01zk&list=PLw74xLHy0_j8umWkSsT-9U0CmoRBpz4vD&index=5&ab_channel=AmirhosseinArzani
 
 6-Importing 3D mesh into FeniCS \
-Youtube tutorial (part I): 
+Youtube tutorial (part I): \
+https://www.youtube.com/watch?v=W40_SKjmh7w&list=PLw74xLHy0_j8umWkSsT-9U0CmoRBpz4vD&index=6&ab_channel=AmirhosseinArzani
 
-Youtube tutorial (part II): 
+Youtube tutorial (part II): \
+https://www.youtube.com/watch?v=yp93zXRJG3E&list=PLw74xLHy0_j8umWkSsT-9U0CmoRBpz4vD&index=7&ab_channel=AmirhosseinArzani
 
 7- 3D mass transport in complex geometry (advection-diffusion) \
-Youtube tutorial: 
+Youtube tutorial: \
+https://www.youtube.com/watch?v=aaVY2yWGPTs&list=PLw74xLHy0_j8umWkSsT-9U0CmoRBpz4vD&index=8&ab_channel=AmirhosseinArzani
 
 8- 3D Biotransport (advection-diffusion) \
 Codes for this tutorial are available at: https://github.com/amir-cardiolab/Biotransport_FEniCS \
-Youtube tutorial: 
+Youtube tutorial: \
+https://www.youtube.com/watch?v=iMob-dfDSUs&list=PLw74xLHy0_j8umWkSsT-9U0CmoRBpz4vD&index=9&ab_channel=AmirhosseinArzani
 
 9- Residence-time (flow stagnation) \
-Youtube tutorial: 
+Youtube tutorial: \
+https://www.youtube.com/watch?v=QOq8rYziqCI&list=PLw74xLHy0_j8umWkSsT-9U0CmoRBpz4vD&index=10&ab_channel=AmirhosseinArzani
 
 10- Oasis: A robust package for minimally dissipative solution of Navier-Stokes \
-Youtube tutorial: 
+Youtube tutorial: \
+https://www.youtube.com/watch?v=mg1y5XcHwJM&list=PLw74xLHy0_j8umWkSsT-9U0CmoRBpz4vD&index=11&ab_channel=AmirhosseinArzani
 
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% PyTorch %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 **PyTorch**: \
-Youtube playlist: 
+Youtube playlist: \
+https://www.youtube.com/playlist?list=PLw74xLHy0_j_ROpJ--S-D9Op8_uL7S1EF
 
 1- Data-driven neural network (2D field to 2D field mapping) \
-Youtube tutorial: 
+Youtube tutorial: \
+https://www.youtube.com/watch?v=CYOexv1Sg40&list=PLw74xLHy0_j_ROpJ--S-D9Op8_uL7S1EF&index=1&t=4s&ab_channel=AmirhosseinArzani
 
 2- Physics-informed neural network (PINN) for forward problems \
-Youtube tutorial: 
+Youtube tutorial: \
+https://www.youtube.com/watch?v=whXM-w7ig-I&list=PLw74xLHy0_j_ROpJ--S-D9Op8_uL7S1EF&index=2&ab_channel=AmirhosseinArzani
 
 3- PINN for inverse modeling \
 Codes for this tutorial are available at: https://github.com/amir-cardiolab/PINN-wss \
-Youtube tutorial: 
+Youtube tutorial: \
+https://www.youtube.com/watch?v=UaJmVW8Zbew&list=PLw74xLHy0_j_ROpJ--S-D9Op8_uL7S1EF&index=3&ab_channel=AmirhosseinArzani
 
 4- PINN for multi-fidelity and multi-physics modeling \
 Codes for this tutorial are available at: https://github.com/amir-cardiolab/PINN_multiphysics_multifidelity  \
-Youtube tutorial: 
+Youtube tutorial: \
+https://www.youtube.com/watch?v=IKaTnZ_xhfw&list=PLw74xLHy0_j_ROpJ--S-D9Op8_uL7S1EF&index=4&ab_channel=AmirhosseinArzani
 
 5- Pytorch output converted to VTK/Matlab \ 
-Youtube tutorial: 
+Youtube tutorial: \
+https://www.youtube.com/watch?v=nP9T04VfjeI&list=PLw74xLHy0_j_ROpJ--S-D9Op8_uL7S1EF&index=5&ab_channel=AmirhosseinArzani
 
 
 
