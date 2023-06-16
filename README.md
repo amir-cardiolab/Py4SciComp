@@ -15,10 +15,12 @@ In this GitHub directory, we provide a series of tutorials. Each tutorial is acc
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% FEniCS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 **FEniCS**: \
-Youtube playlist: 
+Youtube playlist:\
+https://www.youtube.com/playlist?list=PLw74xLHy0_j8umWkSsT-9U0CmoRBpz4vD
 
 1-Introduction \
-Youtube tutorial: 
+Youtube tutorial: \
+https://www.youtube.com/watch?v=P642Oq-TohY&list=PLw74xLHy0_j8umWkSsT-9U0CmoRBpz4vD&index=1&t=163s&ab_channel=AmirhosseinArzani
 
 2-Automated parametric solution \
 Youtube tutorial: 
