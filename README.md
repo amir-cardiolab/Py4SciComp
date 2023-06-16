@@ -10,14 +10,106 @@ Py4SciComp is an educational effort that attempts to make three useful open-sour
 **A Unified Python cyberinfrastructure**: It is the hope that these resources motivate development of unified Python cuberinfrastructure that integrate these resources for scientific computing. 
 
 
-In this Github directory, we provide a series of tutorials. Each tutorial is accompanied by a short Youtube video, sample codes, and data.  Available resources (to be expanded in the future): 
+In this Github directory, we provide a series of tutorials. Each tutorial is accompanied by a short Youtube video, sample codes, and data.  Available resources (**to be expanded in the future**): 
 
-**FEniCS**:
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% FEniCS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+**FEniCS**: \
 Youtube playlist: 
 
 1-Introduction \
 Youtube tutorial: 
 
-2- 2-Automated parametric solution \
+2-Automated parametric solution \
 Youtube tutorial: 
+
+3-Steady Navier-Stokes \
+Youtube tutorial: 
+
+4-Unsteady Navier-Stokes \
+Youtube tutorial: 
+
+5-2D mass transport (advection-diffusion) \
+Youtube tutorial: 
+
+6-Importing 3D mesh into FeniCS \
+Youtube tutorial: 
+
+7- 3D mass transport in complex geometry (advection-diffusion) \
+Youtube tutorial: 
+
+8- 3D Biotransport (advection-diffusion) \
+Codes for this tutorial are available at: https://github.com/amir-cardiolab/Biotransport_FEniCS \
+Youtube tutorial: 
+
+9- Residence-time (flow stagnation) \
+Youtube tutorial: 
+
+10- Oasis: A robust package for minimally dissipative solution of Navier-Stokes \
+Youtube tutorial: 
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% PyTorch %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+**PyTorch**: \
+Youtube playlist: 
+
+1- Data-driven neural network (2D field to 2D field mappping) \
+Youtube tutorial: 
+
+2- Physics-informed neural network (PINN) for forward problems \
+Youtube tutorial: 
+
+3- PINN for inverse modeling \
+Codes for this tutorial are available at: https://github.com/amir-cardiolab/PINN-wss \
+Youtube tutorial: 
+
+4- PINN for multi-fidelity and multi-physics modeling \
+Codes for this tutorial are available at: https://github.com/amir-cardiolab/PINN_multiphysics_multifidelity  \
+Youtube tutorial: 
+
+5- Pytorch output converted to VTK/Matlab \ 
+Youtube tutorial: 
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% VTK %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+**VTK**: \
+Coming soon!!!!!
+
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Theory lectures %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+**FEM-based CFD **: \
+Lectures for computational fluid dynamics (CFD) with finite-element method (FEM). 
+
+To be added in the futre. 
+
+
+
+
+**Scientific machine learning **: \
+Lectures for scientific machine learning (machine learning in physics-based modeling).
+
+To be added in the futre. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
