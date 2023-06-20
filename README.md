@@ -97,7 +97,7 @@ https://www.youtube.com/watch?v=nP9T04VfjeI&list=PLw74xLHy0_j_ROpJ--S-D9Op8_uL7S
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% VTK %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-**VTK coding and ParaView**: \
+**VTK coding and ParaView**: 
 
 Youtube playlist: \
 https://www.youtube.com/playlist?list=PLw74xLHy0_j98ZWgbzlq6ZeOhND-6ceFP
