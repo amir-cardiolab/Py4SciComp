@@ -141,7 +141,7 @@ https://www.youtube.com/watch?v=r83hP3ZLr_k&list=PLw74xLHy0_j98ZWgbzlq6ZeOhND-6c
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Theory lectures %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-**Lectures (theory)**: Short theoretical lectures that support Py4SciComp tutorials.  
+**Lectures (theory)**: Theoretical lectures that support Py4SciComp tutorials.  
 
 **FEM-based CFD**: \
 Lectures for computational fluid dynamics (CFD) with finite-element method (FEM). 
@@ -150,9 +150,8 @@ To be added in the future.
 
 
 
-
 **Scientific machine learning**: \
-Lectures for scientific machine learning (machine learning in physics-based modeling).
+Lectures for scientific machine learning (machine learning for physics-based modeling).
 
 To be added in the future. 
 
