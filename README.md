@@ -88,7 +88,7 @@ Codes for this tutorial are available at: https://github.com/amir-cardiolab/PINN
 Youtube tutorial: \
 https://www.youtube.com/watch?v=IKaTnZ_xhfw&list=PLw74xLHy0_j_ROpJ--S-D9Op8_uL7S1EF&index=4&ab_channel=AmirhosseinArzani
 
-5- Pytorch output converted to VTK and Matlab \ 
+5- Pytorch output converted to VTK and Matlab \
 Youtube tutorial: \
 https://www.youtube.com/watch?v=nP9T04VfjeI&list=PLw74xLHy0_j_ROpJ--S-D9Op8_uL7S1EF&index=5&ab_channel=AmirhosseinArzani
 
