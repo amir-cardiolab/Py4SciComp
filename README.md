@@ -88,7 +88,7 @@ Codes for this tutorial are available at: https://github.com/amir-cardiolab/PINN
 Youtube tutorial: \
 https://www.youtube.com/watch?v=IKaTnZ_xhfw&list=PLw74xLHy0_j_ROpJ--S-D9Op8_uL7S1EF&index=4&ab_channel=AmirhosseinArzani
 
-5- Pytorch output converted to VTK/Matlab \ 
+5- Pytorch output converted to VTK and Matlab \ 
 Youtube tutorial: \
 https://www.youtube.com/watch?v=nP9T04VfjeI&list=PLw74xLHy0_j_ROpJ--S-D9Op8_uL7S1EF&index=5&ab_channel=AmirhosseinArzani
 
@@ -97,10 +97,45 @@ https://www.youtube.com/watch?v=nP9T04VfjeI&list=PLw74xLHy0_j_ROpJ--S-D9Op8_uL7S
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% VTK %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-**VTK**: \
-Coming soon!!!!!
+**VTK coding and ParaView**: \
 
+Youtube playlist: \
+https://www.youtube.com/playlist?list=PLw74xLHy0_j98ZWgbzlq6ZeOhND-6ceFP
 
+1- Introduction to Python VTK coding \
+Youtube tutorial: \
+https://www.youtube.com/watch?v=QDJgbSQnhjc&list=PLw74xLHy0_j98ZWgbzlq6ZeOhND-6ceFP&index=1&t=1s&ab_channel=AmirhosseinArzani
+
+2- Vector data (curl and gradient) in VTK \
+Youtube tutorial: \
+https://www.youtube.com/watch?v=V4eklopOLP8&list=PLw74xLHy0_j98ZWgbzlq6ZeOhND-6ceFP&index=2&ab_channel=AmirhosseinArzani
+
+3- Interpolate between unstructured mesh data \
+Youtube tutorial: \
+https://www.youtube.com/watch?v=-fA02RGlmQU&list=PLw74xLHy0_j98ZWgbzlq6ZeOhND-6ceFP&index=3&ab_channel=AmirhosseinArzani
+
+4- Wall shear stress (WSS) divergence calculation \
+Youtube tutorial: \
+https://www.youtube.com/watch?v=jwp7N8lLLKA&list=PLw74xLHy0_j98ZWgbzlq6ZeOhND-6ceFP&index=4&ab_channel=AmirhosseinArzani
+
+5- Processing particle data in VTK (for Lagrangian modeling) \
+Youtube tutorial: \
+https://www.youtube.com/watch?v=vd8CK2NGDSM&list=PLw74xLHy0_j98ZWgbzlq6ZeOhND-6ceFP&index=5&ab_channel=AmirhosseinArzani
+
+6- Introduction to ParaView and several useful filters \
+Youtube tutorial: \
+https://www.youtube.com/watch?v=WsZKrg9ABG4&list=PLw74xLHy0_j98ZWgbzlq6ZeOhND-6ceFP&index=6&ab_channel=AmirhosseinArzani
+
+Data is available here: 
+https://drive.google.com/drive/u/1/folders/1edkqHqn5eKmK6RAhnk7Nj_YxDpaCakQ2
+
+7- Advanced vector field visualization in ParaView \
+Youtube tutorial: \
+https://www.youtube.com/watch?v=fV5jGfqNIvk&list=PLw74xLHy0_j98ZWgbzlq6ZeOhND-6ceFP&index=7&ab_channel=AmirhosseinArzani
+
+8- ParaView's calculator for quick data post-processing \
+Youtube tutorial: \
+https://www.youtube.com/watch?v=r83hP3ZLr_k&list=PLw74xLHy0_j98ZWgbzlq6ZeOhND-6ceFP&index=8&ab_channel=AmirhosseinArzani
 
 
 
