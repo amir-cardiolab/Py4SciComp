@@ -10,7 +10,11 @@ Py4SciComp is an educational effort that attempts to make three useful open-sour
 **A Unified Python cyberinfrastructure**: It is the hope that these resources motivate development of unified Python cyberinfrastructure that integrates these resources for scientific computing. 
 
 
-In this GitHub directory, we provide a series of tutorials. Each tutorial is accompanied by a short Youtube video, sample codes, and data.  Available resources (**to be expanded in the future**): 
+In this GitHub directory, we provide a series of tutorials. Each tutorial is accompanied by a short Youtube video, sample codes, and data. \
+The Youtube videos should be viewed in HD mode for clarity.
+
+
+Available resources (**to be expanded in the future**): 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% FEniCS %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
