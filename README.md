@@ -151,9 +151,11 @@ https://www.youtube.com/watch?v=r83hP3ZLr_k&list=PLw74xLHy0_j98ZWgbzlq6ZeOhND-6c
 **Lectures (theory)**: Theoretical lectures that support Py4SciComp tutorials.  
 
 **FEM-based CFD**: \
-Lectures for computational fluid dynamics (CFD) with finite-element method (FEM). 
+Lectures for computational fluid dynamics (CFD) with finite-element method (FEM):
 
-To be added in the future. 
+These lectures support FEniCS and are designed to provide the theoretical foundation needed for using FEniCS:
+
+https://www.youtube.com/playlist?list=PLw74xLHy0_j_Jz0YCPoYfajhq2d9byqP0
 
 
 
