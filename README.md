@@ -153,6 +153,7 @@ Youtube playlist: \
 https://www.youtube.com/playlist?list=PLw74xLHy0_j89-B9KRjjtzpInBOGqsTt4
 
 1- Tutorial overview:\
+https://www.youtube.com/watch?v=TzbMqY1ZiwM
 
 2- Automated geometry generation (creating a large dataset):\
 https://www.youtube.com/watch?v=14McL_GGURk
