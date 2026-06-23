@@ -7,7 +7,8 @@ Py4SciComp is an educational effort that attempts to make three useful open-sour
 **FEniCS**: FEniCS is an open-source finite-element method (FEM) solver for solving PDEs. Users are expected to be familiar with weak form formulation of PDEs and FEniCS provides a flexible environment for coding the weak forms and the FEM problem. Behind the curtains, FEniCS converts the Python code to an HPC-supported C++ code and runs it. \
 **PyTorch**: PyTorch is a very popular framework for implementing deep learning, automatic differentiation, and optimization based codes. \
 **VTK**: Visualization Toolkit (VTK) libraries provide various useful tools for efficient pre- and post- processing of mesh-based and discrete data. Popular visualization software like ParaView is built based on VTK.\
-**A Unified Python cyberinfrastructure**: It is the hope that these resources motivate development of unified Python cyberinfrastructure that integrates these resources for scientific computing. 
+**A Unified Python cyberinfrastructure**: It is the hope that these resources motivate development of unified Python cyberinfrastructure that integrates these resources for scientific computing. \
+**PyAnsys: We have also provided a tutorial series for automated model creation (geometry + mesh) and CFD simulation in Ansys using a Python interface, which is useful for creating an end-to-end automated workflow for creating a large dataset with idealized geometries. 
 
 
 In this GitHub directory, we provide a series of tutorials. Each tutorial is accompanied by a short Youtube video, sample codes, and data. \
@@ -144,6 +145,23 @@ https://drive.google.com/drive/folders/12Oxc55K27yVMLDToE1jUhtMDRsvog69s?usp=sha
 Youtube tutorial: \
 https://www.youtube.com/watch?v=r83hP3ZLr_k&list=PLw74xLHy0_j98ZWgbzlq6ZeOhND-6ceFP&index=8&ab_channel=AmirhosseinArzani
 
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% PyAnsys %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+**PyAnsys**: \
+Youtube playlist: \
+https://www.youtube.com/playlist?list=PLw74xLHy0_j89-B9KRjjtzpInBOGqsTt4
+
+1- Tutorial overview:\
+
+2- Automated geometry generation (creating a large dataset):\
+https://www.youtube.com/watch?v=14McL_GGURk&t=124s
+
+3- Automated mesh generation (for a large dataset):\
+https://www.youtube.com/watch?v=RL7zD1ybYTM&t=114s
+
+4- Automated CFD solution (for a large dataset):\
+https://www.youtube.com/watch?v=57XKU8i5yXo&t=1s
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% Theory lectures %%%%%%%%%%%%%%%%%%%%%%%%%%%%%
